@@ -72,4 +72,4 @@ The objective of this project was to design and implement an end-to-end analytic
 
 ## 🎥 YouTube Walkthrough
  
-(Add your video link here)
+https://youtu.be/7xsn7fMOC-4
