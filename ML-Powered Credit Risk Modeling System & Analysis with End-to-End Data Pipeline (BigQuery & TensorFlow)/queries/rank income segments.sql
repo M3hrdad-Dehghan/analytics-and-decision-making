@@ -1,0 +1,1 @@
+-- Identify which income segments carry the highest credit risk.

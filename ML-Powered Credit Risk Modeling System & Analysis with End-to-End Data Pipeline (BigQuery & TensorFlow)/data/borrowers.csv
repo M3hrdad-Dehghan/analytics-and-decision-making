@@ -1,0 +1,401 @@
+borrower_id,age,gender,education_level,marital_status,state,credit_score,created_at
+B0001,59,Male,High School,Single,TX,606,2021-01-01
+B0002,49,Male,High School,Married,TX,743,2021-01-02
+B0003,35,Female,Bachelor,Married,PA,611,2021-01-03
+B0004,63,Male,Bachelor,Single,NC,806,2021-01-04
+B0005,28,Female,PhD,Married,CA,714,2021-01-05
+B0006,41,Female,High School,Single,NC,620,2021-01-06
+B0007,59,Male,Master,Divorced,NC,832,2021-01-07
+B0008,39,Male,High School,Married,NC,611,2021-01-08
+B0009,43,Male,Master,Married,IL,719,2021-01-09
+B0010,31,Female,High School,Single,NC,683,2021-01-10
+B0011,31,Male,High School,Divorced,FL,764,2021-01-11
+B0012,44,Male,Master,Single,TX,784,2021-01-12
+B0013,56,Female,Associate,Single,PA,662,2021-01-13
+B0014,60,Male,PhD,Married,FL,599,2021-01-14
+B0015,44,Male,Bachelor,Single,PA,696,2021-01-15
+B0016,23,Male,Associate,Widowed,NY,605,2021-01-16
+B0017,42,Male,High School,Married,PA,821,2021-01-17
+B0018,22,Female,Associate,Single,TX,670,2021-01-18
+B0019,44,Male,Bachelor,Married,TX,630,2021-01-19
+B0020,64,Female,Master,Widowed,NC,674,2021-01-20
+B0021,50,Male,Master,Divorced,OH,552,2021-01-21
+B0022,58,Female,Master,Married,NY,582,2021-01-22
+B0023,22,Male,Bachelor,Divorced,CA,756,2021-01-23
+B0024,41,Male,Bachelor,Widowed,GA,607,2021-01-24
+B0025,53,Non-binary,Master,Married,PA,576,2021-01-25
+B0026,32,Female,High School,Single,OH,702,2021-01-26
+B0027,42,Female,Associate,Married,NC,754,2021-01-27
+B0028,64,Male,Master,Divorced,IL,717,2021-01-28
+B0029,45,Male,High School,Single,CA,739,2021-01-29
+B0030,69,Male,Master,Divorced,MI,599,2021-01-30
+B0031,47,Female,Bachelor,Single,OH,546,2021-01-31
+B0032,62,Male,Master,Single,IL,780,2021-02-01
+B0033,48,Female,Master,Married,NY,634,2021-02-02
+B0034,36,Male,High School,Single,NC,639,2021-02-03
+B0035,35,Female,Bachelor,Widowed,CA,766,2021-02-04
+B0036,67,Male,Associate,Divorced,CA,704,2021-02-05
+B0037,71,Female,Bachelor,Divorced,CA,696,2021-02-06
+B0038,64,Male,Bachelor,Married,NY,833,2021-02-07
+B0039,23,Male,Bachelor,Single,PA,608,2021-02-08
+B0040,57,Female,Bachelor,Married,MI,734,2021-02-09
+B0041,71,Male,Bachelor,Married,NY,664,2021-02-10
+B0042,27,Male,Bachelor,Married,GA,681,2021-02-11
+B0043,41,Female,High School,Single,MI,782,2021-02-12
+B0044,29,Female,Master,Married,TX,700,2021-02-13
+B0045,59,Male,High School,Married,NC,703,2021-02-14
+B0046,38,Male,High School,Widowed,NY,745,2021-02-15
+B0047,24,Male,High School,Divorced,IL,630,2021-02-16
+B0048,45,Female,High School,Married,MI,592,2021-02-17
+B0049,34,Male,Bachelor,Married,GA,576,2021-02-18
+B0050,70,Male,Bachelor,Married,TX,502,2021-02-19
+B0051,29,Male,Master,Single,PA,824,2021-02-20
+B0052,46,Male,High School,Divorced,IL,571,2021-02-21
+B0053,22,Female,PhD,Divorced,MI,642,2021-02-22
+B0054,40,Male,Master,Married,NC,637,2021-02-23
+B0055,48,Female,Bachelor,Married,IL,684,2021-02-24
+B0056,67,Male,Associate,Single,TX,725,2021-02-25
+B0057,27,Male,Associate,Married,IL,728,2021-02-26
+B0058,64,Male,High School,Single,FL,613,2021-02-27
+B0059,28,Male,Bachelor,Divorced,OH,646,2021-02-28
+B0060,67,Female,Associate,Single,PA,682,2021-03-01
+B0061,55,Female,Master,Single,TX,640,2021-03-02
+B0062,34,Male,High School,Divorced,IL,788,2021-03-03
+B0063,37,Female,Master,Married,OH,699,2021-03-04
+B0064,56,Male,Master,Single,OH,718,2021-03-05
+B0065,70,Female,Master,Single,IL,713,2021-03-06
+B0066,60,Male,Master,Single,NC,753,2021-03-07
+B0067,24,Female,Master,Married,FL,674,2021-03-08
+B0068,22,Male,High School,Single,NY,556,2021-03-09
+B0069,26,Male,High School,Married,FL,691,2021-03-10
+B0070,62,Male,Bachelor,Widowed,IL,607,2021-03-11
+B0071,24,Male,Associate,Single,PA,617,2021-03-12
+B0072,49,Male,Bachelor,Divorced,NY,706,2021-03-13
+B0073,38,Male,Bachelor,Widowed,TX,759,2021-03-14
+B0074,46,Non-binary,Master,Single,FL,661,2021-03-15
+B0075,64,Male,Bachelor,Divorced,IL,684,2021-03-16
+B0076,54,Male,Master,Married,FL,796,2021-03-17
+B0077,30,Female,PhD,Divorced,NY,679,2021-03-18
+B0078,56,Female,Bachelor,Married,GA,850,2021-03-19
+B0079,34,Male,Bachelor,Married,MI,705,2021-03-20
+B0080,51,Male,Bachelor,Married,FL,519,2021-03-21
+B0081,68,Female,Bachelor,Divorced,TX,720,2021-03-22
+B0082,35,Male,Bachelor,Married,TX,690,2021-03-23
+B0083,28,Female,Bachelor,Married,CA,763,2021-03-24
+B0084,34,Female,Bachelor,Divorced,FL,713,2021-03-25
+B0085,43,Male,High School,Single,MI,648,2021-03-26
+B0086,60,Male,High School,Single,NC,562,2021-03-27
+B0087,41,Female,Bachelor,Single,OH,643,2021-03-28
+B0088,36,Male,Bachelor,Single,MI,591,2021-03-29
+B0089,65,Female,Bachelor,Single,OH,613,2021-03-30
+B0090,38,Female,Master,Divorced,OH,707,2021-03-31
+B0091,67,Female,Master,Single,GA,793,2021-04-01
+B0092,44,Female,High School,Married,CA,691,2021-04-02
+B0093,46,Female,PhD,Single,MI,564,2021-04-03
+B0094,45,Female,Bachelor,Divorced,MI,695,2021-04-04
+B0095,65,Female,Master,Widowed,GA,755,2021-04-05
+B0096,61,Female,Bachelor,Married,FL,611,2021-04-06
+B0097,49,Female,Associate,Divorced,FL,649,2021-04-07
+B0098,35,Female,Master,Single,FL,661,2021-04-08
+B0099,65,Male,Master,Divorced,PA,597,2021-04-09
+B0100,21,Female,Master,Single,OH,711,2021-04-10
+B0101,45,Female,High School,Divorced,PA,650,2021-04-11
+B0102,27,Female,High School,Single,CA,693,2021-04-12
+B0103,29,Female,Master,Married,GA,589,2021-04-13
+B0104,44,Female,Bachelor,Married,MI,625,2021-04-14
+B0105,21,Male,Master,Single,OH,717,2021-04-15
+B0106,64,Male,High School,Single,PA,630,2021-04-16
+B0107,28,Male,Bachelor,Single,PA,798,2021-04-17
+B0108,44,Male,Bachelor,Single,IL,628,2021-04-18
+B0109,31,Male,Bachelor,Married,PA,677,2021-04-19
+B0110,71,Female,Bachelor,Single,NC,734,2021-04-20
+B0111,37,Male,Bachelor,Married,MI,546,2021-04-21
+B0112,28,Female,Bachelor,Single,NC,519,2021-04-22
+B0113,55,Male,Bachelor,Divorced,MI,537,2021-04-23
+B0114,55,Female,Bachelor,Single,GA,761,2021-04-24
+B0115,53,Male,Master,Single,MI,615,2021-04-25
+B0116,25,Male,High School,Single,NC,850,2021-04-26
+B0117,62,Male,Bachelor,Married,MI,614,2021-04-27
+B0118,59,Female,Bachelor,Divorced,GA,674,2021-04-28
+B0119,61,Male,Master,Married,GA,783,2021-04-29
+B0120,48,Female,Bachelor,Single,CA,820,2021-04-30
+B0121,27,Male,Master,Married,MI,824,2021-05-01
+B0122,29,Male,Associate,Married,IL,756,2021-05-02
+B0123,28,Female,Bachelor,Single,FL,741,2021-05-03
+B0124,32,Female,High School,Married,TX,707,2021-05-04
+B0125,54,Male,Bachelor,Divorced,GA,722,2021-05-05
+B0126,53,Female,Bachelor,Single,NY,615,2021-05-06
+B0127,68,Female,Bachelor,Married,FL,594,2021-05-07
+B0128,43,Female,Associate,Married,OH,659,2021-05-08
+B0129,44,Male,High School,Married,MI,646,2021-05-09
+B0130,57,Male,High School,Single,NC,623,2021-05-10
+B0131,55,Female,Bachelor,Single,TX,715,2021-05-11
+B0132,64,Female,Master,Divorced,NY,736,2021-05-12
+B0133,60,Female,Bachelor,Widowed,FL,667,2021-05-13
+B0134,42,Male,High School,Married,MI,778,2021-05-14
+B0135,47,Female,Associate,Married,CA,568,2021-05-15
+B0136,55,Female,Master,Married,OH,644,2021-05-16
+B0137,21,Male,High School,Married,TX,602,2021-05-17
+B0138,55,Male,Master,Married,IL,510,2021-05-18
+B0139,57,Female,Master,Single,CA,653,2021-05-19
+B0140,67,Male,Bachelor,Divorced,NY,650,2021-05-20
+B0141,34,Male,High School,Married,TX,781,2021-05-21
+B0142,23,Male,High School,Divorced,CA,710,2021-05-22
+B0143,21,Male,High School,Single,OH,578,2021-05-23
+B0144,25,Male,Master,Single,IL,808,2021-05-24
+B0145,46,Female,Associate,Single,CA,757,2021-05-25
+B0146,34,Female,High School,Married,PA,706,2021-05-26
+B0147,59,Male,High School,Divorced,IL,641,2021-05-27
+B0148,47,Female,High School,Single,NY,583,2021-05-28
+B0149,29,Female,High School,Divorced,OH,630,2021-05-29
+B0150,35,Male,Master,Married,MI,747,2021-05-30
+B0151,35,Male,Bachelor,Divorced,NC,810,2021-05-31
+B0152,46,Male,Bachelor,Single,NC,783,2021-06-01
+B0153,62,Male,High School,Divorced,NC,620,2021-06-02
+B0154,33,Female,Bachelor,Married,TX,570,2021-06-03
+B0155,71,Female,Bachelor,Single,NY,671,2021-06-04
+B0156,52,Male,Master,Single,OH,518,2021-06-05
+B0157,59,Female,High School,Divorced,IL,685,2021-06-06
+B0158,69,Female,Master,Widowed,TX,648,2021-06-07
+B0159,52,Male,Bachelor,Single,NY,622,2021-06-08
+B0160,24,Female,High School,Married,MI,532,2021-06-09
+B0161,50,Non-binary,Bachelor,Divorced,PA,701,2021-06-10
+B0162,57,Non-binary,PhD,Divorced,OH,617,2021-06-11
+B0163,43,Male,Associate,Widowed,NC,566,2021-06-12
+B0164,59,Female,Bachelor,Married,CA,430,2021-06-13
+B0165,65,Female,Bachelor,Married,OH,657,2021-06-14
+B0166,35,Female,Associate,Single,GA,801,2021-06-15
+B0167,63,Female,Bachelor,Single,NY,792,2021-06-16
+B0168,49,Female,High School,Married,FL,623,2021-06-17
+B0169,56,Female,Associate,Married,MI,611,2021-06-18
+B0170,33,Female,High School,Single,PA,697,2021-06-19
+B0171,52,Female,Bachelor,Divorced,MI,580,2021-06-20
+B0172,27,Male,High School,Married,OH,684,2021-06-21
+B0173,71,Male,High School,Married,FL,721,2021-06-22
+B0174,42,Male,Bachelor,Married,GA,758,2021-06-23
+B0175,48,Female,Master,Married,IL,651,2021-06-24
+B0176,22,Male,Bachelor,Single,CA,643,2021-06-25
+B0177,62,Male,High School,Single,FL,589,2021-06-26
+B0178,65,Male,High School,Single,NY,593,2021-06-27
+B0179,26,Female,Bachelor,Single,NC,641,2021-06-28
+B0180,48,Female,Associate,Married,GA,689,2021-06-29
+B0181,48,Female,Bachelor,Married,CA,733,2021-06-30
+B0182,64,Male,Bachelor,Single,PA,595,2021-07-01
+B0183,64,Female,PhD,Married,NC,779,2021-07-02
+B0184,40,Female,Bachelor,Single,OH,638,2021-07-03
+B0185,50,Male,High School,Divorced,FL,658,2021-07-04
+B0186,31,Female,Bachelor,Widowed,CA,600,2021-07-05
+B0187,48,Male,Bachelor,Single,TX,466,2021-07-06
+B0188,45,Male,Bachelor,Married,IL,730,2021-07-07
+B0189,59,Female,Bachelor,Single,IL,718,2021-07-08
+B0190,53,Male,Master,Married,GA,637,2021-07-09
+B0191,21,Male,Bachelor,Married,PA,665,2021-07-10
+B0192,47,Male,Bachelor,Single,GA,701,2021-07-11
+B0193,33,Male,Bachelor,Married,TX,534,2021-07-12
+B0194,61,Male,Bachelor,Single,NY,617,2021-07-13
+B0195,23,Female,Master,Single,PA,723,2021-07-14
+B0196,59,Female,Bachelor,Married,MI,559,2021-07-15
+B0197,26,Female,Bachelor,Single,NY,683,2021-07-16
+B0198,28,Female,Master,Married,PA,551,2021-07-17
+B0199,47,Female,Bachelor,Married,PA,697,2021-07-18
+B0200,29,Female,Bachelor,Widowed,TX,657,2021-07-19
+B0201,57,Male,Bachelor,Single,OH,530,2021-07-20
+B0202,53,Male,Bachelor,Married,TX,753,2021-07-21
+B0203,71,Male,Master,Married,PA,601,2021-07-22
+B0204,62,Male,High School,Married,CA,595,2021-07-23
+B0205,64,Female,Bachelor,Widowed,NY,676,2021-07-24
+B0206,44,Male,High School,Married,TX,751,2021-07-25
+B0207,35,Female,Master,Married,OH,578,2021-07-26
+B0208,52,Non-binary,Bachelor,Married,FL,664,2021-07-27
+B0209,52,Female,PhD,Widowed,GA,694,2021-07-28
+B0210,44,Male,Bachelor,Divorced,PA,715,2021-07-29
+B0211,61,Male,Master,Married,MI,674,2021-07-30
+B0212,69,Female,Associate,Married,FL,630,2021-07-31
+B0213,69,Female,Master,Single,IL,593,2021-08-01
+B0214,32,Male,PhD,Single,NC,666,2021-08-02
+B0215,59,Female,Bachelor,Married,OH,574,2021-08-03
+B0216,22,Male,Bachelor,Single,MI,426,2021-08-04
+B0217,23,Male,Bachelor,Married,NC,694,2021-08-05
+B0218,69,Male,High School,Single,OH,732,2021-08-06
+B0219,57,Male,Bachelor,Single,CA,470,2021-08-07
+B0220,69,Non-binary,Bachelor,Married,GA,579,2021-08-08
+B0221,37,Female,Bachelor,Divorced,FL,709,2021-08-09
+B0222,69,Male,Bachelor,Single,NY,824,2021-08-10
+B0223,22,Female,PhD,Married,OH,661,2021-08-11
+B0224,22,Female,Bachelor,Divorced,NY,601,2021-08-12
+B0225,48,Female,Master,Single,GA,645,2021-08-13
+B0226,43,Male,Master,Divorced,PA,769,2021-08-14
+B0227,57,Male,Associate,Married,IL,608,2021-08-15
+B0228,52,Male,Bachelor,Single,FL,596,2021-08-16
+B0229,53,Male,Master,Widowed,GA,621,2021-08-17
+B0230,21,Male,Associate,Single,GA,583,2021-08-18
+B0231,39,Female,Associate,Married,CA,669,2021-08-19
+B0232,22,Male,High School,Divorced,NC,789,2021-08-20
+B0233,64,Male,Bachelor,Single,IL,685,2021-08-21
+B0234,46,Male,Bachelor,Married,FL,639,2021-08-22
+B0235,52,Male,High School,Widowed,PA,636,2021-08-23
+B0236,26,Male,Bachelor,Single,PA,534,2021-08-24
+B0237,52,Male,Master,Divorced,TX,730,2021-08-25
+B0238,24,Male,Master,Married,GA,653,2021-08-26
+B0239,31,Male,High School,Married,OH,645,2021-08-27
+B0240,37,Male,PhD,Married,CA,850,2021-08-28
+B0241,58,Female,Bachelor,Single,IL,683,2021-08-29
+B0242,44,Male,Master,Divorced,PA,599,2021-08-30
+B0243,25,Male,Associate,Divorced,FL,625,2021-08-31
+B0244,54,Male,Bachelor,Married,TX,751,2021-09-01
+B0245,26,Female,Bachelor,Married,FL,669,2021-09-02
+B0246,42,Male,Master,Married,CA,544,2021-09-03
+B0247,31,Female,Bachelor,Married,OH,733,2021-09-04
+B0248,68,Female,High School,Married,TX,606,2021-09-05
+B0249,36,Male,Master,Married,TX,809,2021-09-06
+B0250,53,Female,Bachelor,Married,NC,746,2021-09-07
+B0251,29,Female,Master,Married,IL,624,2021-09-08
+B0252,26,Male,Bachelor,Married,TX,762,2021-09-09
+B0253,36,Male,PhD,Single,NC,665,2021-09-10
+B0254,49,Female,High School,Single,NC,728,2021-09-11
+B0255,23,Male,Associate,Married,CA,698,2021-09-12
+B0256,40,Non-binary,Master,Married,NY,592,2021-09-13
+B0257,56,Male,High School,Married,FL,608,2021-09-14
+B0258,39,Female,Bachelor,Married,OH,742,2021-09-15
+B0259,46,Male,Associate,Married,MI,633,2021-09-16
+B0260,23,Female,Bachelor,Married,FL,627,2021-09-17
+B0261,39,Female,High School,Single,TX,583,2021-09-18
+B0262,40,Male,Bachelor,Married,OH,693,2021-09-19
+B0263,52,Male,Bachelor,Married,PA,825,2021-09-20
+B0264,27,Male,Master,Divorced,NY,574,2021-09-21
+B0265,61,Male,Master,Married,PA,661,2021-09-22
+B0266,53,Male,Bachelor,Single,PA,772,2021-09-23
+B0267,60,Female,High School,Single,IL,653,2021-09-24
+B0268,59,Female,Bachelor,Single,FL,696,2021-09-25
+B0269,38,Female,Bachelor,Married,MI,575,2021-09-26
+B0270,60,Female,High School,Single,CA,694,2021-09-27
+B0271,21,Female,Associate,Married,MI,645,2021-09-28
+B0272,31,Female,Master,Married,PA,738,2021-09-29
+B0273,48,Female,Master,Single,TX,754,2021-09-30
+B0274,45,Male,Master,Married,NY,850,2021-10-01
+B0275,70,Male,Bachelor,Single,GA,706,2021-10-02
+B0276,43,Male,Master,Married,MI,686,2021-10-03
+B0277,51,Male,Bachelor,Single,PA,675,2021-10-04
+B0278,50,Male,High School,Divorced,NY,631,2021-10-05
+B0279,62,Male,Bachelor,Single,OH,687,2021-10-06
+B0280,55,Female,Bachelor,Widowed,FL,636,2021-10-07
+B0281,27,Female,Master,Married,NC,673,2021-10-08
+B0282,36,Male,High School,Divorced,IL,765,2021-10-09
+B0283,46,Male,High School,Married,NY,579,2021-10-10
+B0284,68,Male,Bachelor,Married,TX,751,2021-10-11
+B0285,69,Male,Bachelor,Married,TX,765,2021-10-12
+B0286,22,Male,Master,Married,NY,650,2021-10-13
+B0287,21,Female,Bachelor,Married,TX,490,2021-10-14
+B0288,68,Male,Bachelor,Married,FL,611,2021-10-15
+B0289,32,Female,Bachelor,Married,TX,763,2021-10-16
+B0290,25,Female,Bachelor,Single,MI,658,2021-10-17
+B0291,57,Male,Master,Married,NC,580,2021-10-18
+B0292,52,Female,Bachelor,Married,TX,619,2021-10-19
+B0293,29,Female,Master,Married,NC,727,2021-10-20
+B0294,61,Male,Bachelor,Married,PA,703,2021-10-21
+B0295,55,Male,Bachelor,Married,CA,640,2021-10-22
+B0296,39,Female,Associate,Widowed,FL,630,2021-10-23
+B0297,68,Female,High School,Single,CA,628,2021-10-24
+B0298,36,Female,High School,Married,PA,586,2021-10-25
+B0299,23,Female,Master,Married,FL,789,2021-10-26
+B0300,40,Female,High School,Married,NY,634,2021-10-27
+B0301,44,Non-binary,Master,Divorced,NY,757,2021-10-28
+B0302,53,Female,Bachelor,Single,NC,781,2021-10-29
+B0303,44,Female,Associate,Married,PA,739,2021-10-30
+B0304,31,Female,Master,Married,NC,625,2021-10-31
+B0305,69,Male,Bachelor,Married,IL,692,2021-11-01
+B0306,28,Female,Associate,Married,TX,658,2021-11-02
+B0307,56,Female,Bachelor,Married,GA,587,2021-11-03
+B0308,58,Male,Associate,Married,IL,685,2021-11-04
+B0309,60,Female,High School,Married,TX,565,2021-11-05
+B0310,40,Male,Bachelor,Single,FL,755,2021-11-06
+B0311,55,Female,Bachelor,Married,NC,622,2021-11-07
+B0312,68,Female,Bachelor,Single,FL,676,2021-11-08
+B0313,45,Female,High School,Married,FL,682,2021-11-09
+B0314,55,Male,Master,Married,TX,639,2021-11-10
+B0315,45,Female,Master,Married,PA,706,2021-11-11
+B0316,49,Female,Associate,Married,TX,622,2021-11-12
+B0317,38,Male,High School,Single,OH,729,2021-11-13
+B0318,66,Male,Bachelor,Married,NY,552,2021-11-14
+B0319,38,Female,Bachelor,Single,NY,670,2021-11-15
+B0320,22,Male,Bachelor,Married,IL,815,2021-11-16
+B0321,55,Male,Bachelor,Divorced,NY,579,2021-11-17
+B0322,36,Female,Bachelor,Single,TX,605,2021-11-18
+B0323,61,Male,Master,Married,MI,701,2021-11-19
+B0324,56,Female,Bachelor,Married,NC,674,2021-11-20
+B0325,53,Male,Bachelor,Married,TX,688,2021-11-21
+B0326,24,Female,High School,Single,TX,699,2021-11-22
+B0327,53,Male,High School,Single,GA,710,2021-11-23
+B0328,34,Female,High School,Divorced,NC,748,2021-11-24
+B0329,41,Male,Associate,Married,OH,692,2021-11-25
+B0330,68,Female,High School,Single,NY,640,2021-11-26
+B0331,40,Male,High School,Married,NC,713,2021-11-27
+B0332,28,Female,Bachelor,Married,NY,811,2021-11-28
+B0333,27,Male,Master,Single,IL,649,2021-11-29
+B0334,23,Non-binary,Associate,Married,NC,582,2021-11-30
+B0335,37,Female,Master,Married,NY,748,2021-12-01
+B0336,53,Male,Master,Divorced,OH,650,2021-12-02
+B0337,68,Female,Bachelor,Single,CA,486,2021-12-03
+B0338,32,Male,High School,Married,FL,727,2021-12-04
+B0339,71,Male,Associate,Married,FL,617,2021-12-05
+B0340,42,Male,Master,Married,OH,652,2021-12-06
+B0341,42,Female,Bachelor,Married,GA,686,2021-12-07
+B0342,66,Female,Master,Married,CA,675,2021-12-08
+B0343,50,Male,Master,Married,IL,716,2021-12-09
+B0344,58,Female,Bachelor,Married,OH,625,2021-12-10
+B0345,58,Male,Associate,Married,FL,701,2021-12-11
+B0346,65,Male,Associate,Divorced,FL,639,2021-12-12
+B0347,71,Male,Bachelor,Married,FL,719,2021-12-13
+B0348,28,Male,Master,Married,PA,709,2021-12-14
+B0349,47,Male,High School,Single,OH,585,2021-12-15
+B0350,47,Female,Master,Widowed,TX,746,2021-12-16
+B0351,54,Male,High School,Single,IL,617,2021-12-17
+B0352,41,Male,Bachelor,Single,FL,724,2021-12-18
+B0353,50,Male,Associate,Single,NY,689,2021-12-19
+B0354,53,Male,Bachelor,Married,OH,807,2021-12-20
+B0355,48,Female,Bachelor,Single,PA,642,2021-12-21
+B0356,67,Male,Bachelor,Single,OH,632,2021-12-22
+B0357,53,Female,High School,Single,IL,658,2021-12-23
+B0358,25,Non-binary,Master,Single,PA,635,2021-12-24
+B0359,68,Female,High School,Married,IL,723,2021-12-25
+B0360,39,Female,High School,Married,OH,530,2021-12-26
+B0361,24,Male,Bachelor,Married,TX,575,2021-12-27
+B0362,55,Female,Master,Married,IL,574,2021-12-28
+B0363,69,Female,Master,Married,PA,736,2021-12-29
+B0364,37,Female,High School,Single,PA,796,2021-12-30
+B0365,64,Male,Bachelor,Single,IL,651,2021-12-31
+B0366,48,Male,Bachelor,Widowed,MI,646,2022-01-01
+B0367,50,Male,Bachelor,Married,OH,665,2022-01-02
+B0368,49,Female,Master,Single,MI,752,2022-01-03
+B0369,66,Female,Bachelor,Married,GA,585,2022-01-04
+B0370,26,Female,Bachelor,Single,OH,679,2022-01-05
+B0371,55,Male,Bachelor,Married,IL,738,2022-01-06
+B0372,61,Female,PhD,Single,CA,700,2022-01-07
+B0373,57,Male,Bachelor,Single,IL,675,2022-01-08
+B0374,44,Male,Bachelor,Single,MI,740,2022-01-09
+B0375,49,Male,Bachelor,Divorced,TX,443,2022-01-10
+B0376,69,Female,Bachelor,Married,IL,714,2022-01-11
+B0377,66,Male,Master,Single,IL,607,2022-01-12
+B0378,51,Female,Bachelor,Single,TX,513,2022-01-13
+B0379,55,Female,Master,Married,IL,700,2022-01-14
+B0380,53,Male,Master,Single,FL,769,2022-01-15
+B0381,41,Female,Bachelor,Single,CA,649,2022-01-16
+B0382,52,Male,Bachelor,Widowed,NY,736,2022-01-17
+B0383,43,Male,PhD,Single,CA,788,2022-01-18
+B0384,53,Male,Bachelor,Married,IL,765,2022-01-19
+B0385,23,Male,Bachelor,Widowed,FL,791,2022-01-20
+B0386,38,Female,Associate,Married,OH,719,2022-01-21
+B0387,45,Male,High School,Single,IL,666,2022-01-22
+B0388,62,Female,High School,Single,MI,531,2022-01-23
+B0389,51,Female,Bachelor,Divorced,FL,640,2022-01-24
+B0390,23,Female,Associate,Divorced,TX,592,2022-01-25
+B0391,60,Female,High School,Married,FL,833,2022-01-26
+B0392,66,Female,High School,Single,TX,645,2022-01-27
+B0393,44,Male,High School,Married,GA,669,2022-01-28
+B0394,70,Male,High School,Divorced,NY,704,2022-01-29
+B0395,52,Female,High School,Married,NC,663,2022-01-30
+B0396,67,Female,Bachelor,Divorced,FL,795,2022-01-31
+B0397,42,Male,Bachelor,Divorced,PA,610,2022-02-01
+B0398,43,Male,Bachelor,Married,MI,675,2022-02-02
+B0399,22,Male,Bachelor,Married,IL,600,2022-02-03
+B0400,47,Female,High School,Single,MI,554,2022-02-04
