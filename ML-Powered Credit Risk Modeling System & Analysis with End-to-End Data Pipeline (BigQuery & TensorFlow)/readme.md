@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/SQL-BigQuery%20Advanced%20Analytics-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning%20Classification-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-Default%20Prediction-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/BI-Executive%20Risk%20Dashboard-purple?style=flat-square"/>
 </p>
 
 ---
@@ -27,7 +26,6 @@ The ultimate goal was to enable the lending company to proactively identify high
 - Design a relational data model capturing the full lending lifecycle
 - Build a deep learning classification model to estimate default probability per applicant
 - Generate SQL-based analytics for portfolio risk segmentation and cohort performance
-- Design an executive-level credit risk dashboard to support underwriting decisions
 
 ---
 
@@ -54,19 +52,17 @@ The project utilized synthetic relational lending data modeled into normalized t
 - Built a TensorFlow deep neural network with batch normalization, residual skip connections, and dropout regularization
 - Applied Keras Tuner Bayesian hyperparameter optimization and early stopping with learning rate decay
 - Selected the optimal classification threshold using Youden's J statistic on the ROC curve
-- Designed an executive credit risk dashboard with KPI cards, risk trend charts, application funnel, and a high-risk applicant review table
 
 ---
 
 ## 🛠 Key Skills Demonstrated
 
-- End-to-end data science workflow (SQL, Python, Deep Learning, BI Dashboard)
+- End-to-end data science workflow (SQL, Python, Deep Learning)
 - Relational data modeling and synthetic data generation
 - Advanced BigQuery SQL analytics for portfolio risk intelligence
 - Feature engineering driven by credit risk domain knowledge
 - Deep learning classification with TensorFlow and Keras Tuner
 - ROC-AUC optimization and threshold calibration for imbalanced classification
-- Executive dashboard design aligned with credit risk KPIs
 - Translating model outputs into actionable underwriting decisions
 
 ---
